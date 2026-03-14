@@ -36,7 +36,13 @@
 - [ ] Authentication for multi-user sessions
 - [ ] Plugin marketplace / registry
 - [ ] Screenshot/viewport capture from Godot → send to Aura for AI analysis — [→ details](docs/todo/viewport-capture.md)
+- [ ] Gameplay diagnostics recorder — toggleable 1-min recording with timeline annotations, AI-powered bug analysis [godot] [backend] [frontend] — [→ details](docs/todo/gameplay-diagnostics.md)
 - [ ] Dark/light theme toggle in dashboard
+- [ ] Evaluate PydanticAI for agent layer — easier switching between LLM providers/models [backend]
+
+## Up Next
+
+- [ ] "Auto accept mode" — toggle to auto-approve all agent tool calls / file changes without prompting [frontend] [backend]
 
 ## In Progress
 
